@@ -13,3 +13,9 @@ Thumbs.db
 
 database/*.db
 data/*.xlsx
+
+# SQLite / bases locales
+*.db
+*.sqlite
+*.sqlite3
+database/
