@@ -78,3 +78,8 @@ sales-analysis-sql-python/
 - Dashboard interactivo
 - Análisis por cliente
 - Análisis temporal de ventas
+
+## Nota sobre los datos
+
+La base de datos SQLite no se incluye en el repositorio debido a su tamaño.
+El notebook `01_data_loading.ipynb` genera automáticamente la base a partir del dataset original.
